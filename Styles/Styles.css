@@ -2,3 +2,20 @@
 .carousel-item{
     height: 50vh;
 }
+
+.card-img-top{
+    width: 100%;
+}
+
+ h1, .headerFeatured{
+    text-align: center;
+    padding: 2%;
+}
+
+.card {
+    margin: 0 auto; 
+    float: none; 
+    margin-bottom: 10px; 
+
+    padding-bottom: 2%;
+}
